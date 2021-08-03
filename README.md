@@ -10,7 +10,7 @@ This is the official code repository of our ICML paper "An End-to-End Framework 
 
 ### Install via Conda (Recommended)
 
-Follow the instructions [here](https://github.com/MinkaiXu/CGCF-ConfGen#install-via-conda-recommended). We adopt the same environment as another our previous repo.
+You can follow the instructions [here](https://github.com/MinkaiXu/CGCF-ConfGen#install-via-conda-recommended). We adopt an environment the same as our another previous project.
 
 ### Install Manually
 
